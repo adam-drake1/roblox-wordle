@@ -1,0 +1,7 @@
+/node_modules
+/out
+*.tsbuildinfo
+/pnpm-lock.yaml
+
+.vscode/*
+!.vscode/extensions.json
